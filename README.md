@@ -67,3 +67,12 @@
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
+
+# Screenshots of the Output
+![Screenshot (506)](https://github.com/whoanujyadav/NetflixGPT/assets/91775250/bc9341ff-c49e-4a85-adfb-0fe9bf704c06)
+![Screenshot (505)](https://github.com/whoanujyadav/NetflixGPT/assets/91775250/4cd25abd-fdc3-48fa-8329-419e3d58c114)
+![Screenshot (500)](https://github.com/whoanujyadav/NetflixGPT/assets/91775250/2a114c0f-7c8b-49ad-ae48-19739145867b)
+![Screenshot (501)](https://github.com/whoanujyadav/NetflixGPT/assets/91775250/94823b35-6c0d-403f-a888-15119e926a13)
+![Screenshot (502)](https://github.com/whoanujyadav/NetflixGPT/assets/91775250/50b51349-e3d1-499e-9482-ef32b97df42b)
+![Screenshot (503)](https://github.com/whoanujyadav/NetflixGPT/assets/91775250/13d892cd-93de-47a2-99b9-867939cf9ba5)
+
