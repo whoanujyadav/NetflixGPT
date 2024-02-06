@@ -1,4 +1,4 @@
-# NetflixGPT
+
  # Netflix GPT
 
 - Create React App
